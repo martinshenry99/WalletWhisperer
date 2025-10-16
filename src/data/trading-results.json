@@ -1,0 +1,135 @@
+{
+  "summary": {
+    "totalTrades": 147,
+    "profitableTrades": 102,
+    "winRate": 69.4,
+    "totalROI": 284.7,
+    "averageROI": 1.94,
+    "bestTrade": 156.3,
+    "worstTrade": -18.2,
+    "averageDuration": "2h 15m",
+    "totalProfit": 12847.50,
+    "totalLoss": -3621.30,
+    "netProfit": 9226.20
+  },
+  "monthlyPerformance": [
+    { "month": "Apr 2025", "roi": 18.3, "trades": 12, "winRate": 58.3 },
+    { "month": "May 2025", "roi": 34.7, "trades": 19, "winRate": 63.2 },
+    { "month": "Jun 2025", "roi": 52.1, "trades": 24, "winRate": 70.8 },
+    { "month": "Jul 2025", "roi": 61.4, "trades": 28, "winRate": 71.4 },
+    { "month": "Aug 2025", "roi": 48.9, "trades": 31, "winRate": 67.7 },
+    { "month": "Sep 2025", "roi": 69.3, "trades": 33, "winRate": 75.8 }
+  ],
+  "recentTrades": [
+    {
+      "date": "2025-09-28",
+      "token": "PEPE",
+      "symbol": "PEPE",
+      "entryPrice": 0.00000124,
+      "exitPrice": 0.00000167,
+      "roi": 34.7,
+      "duration": "1h 42m",
+      "outcome": "profit",
+      "amount": 250
+    },
+    {
+      "date": "2025-09-27",
+      "token": "BONK",
+      "symbol": "BONK",
+      "entryPrice": 0.0000089,
+      "exitPrice": 0.0000142,
+      "roi": 59.6,
+      "duration": "3h 18m",
+      "outcome": "profit",
+      "amount": 180
+    },
+    {
+      "date": "2025-09-26",
+      "token": "WIF",
+      "symbol": "WIF",
+      "entryPrice": 1.24,
+      "exitPrice": 1.89,
+      "roi": 52.4,
+      "duration": "5h 12m",
+      "outcome": "profit",
+      "amount": 320
+    },
+    {
+      "date": "2025-09-25",
+      "token": "MYRO",
+      "symbol": "MYRO",
+      "entryPrice": 0.087,
+      "exitPrice": 0.079,
+      "roi": -9.2,
+      "duration": "1h 05m",
+      "outcome": "loss",
+      "amount": 150
+    },
+    {
+      "date": "2025-09-24",
+      "token": "POPCAT",
+      "symbol": "POPCAT",
+      "entryPrice": 0.56,
+      "exitPrice": 0.91,
+      "roi": 62.5,
+      "duration": "4h 33m",
+      "outcome": "profit",
+      "amount": 280
+    },
+    {
+      "date": "2025-09-23",
+      "token": "MOODENG",
+      "symbol": "MOODENG",
+      "entryPrice": 0.034,
+      "exitPrice": 0.087,
+      "roi": 156.3,
+      "duration": "8h 47m",
+      "outcome": "profit",
+      "amount": 200
+    },
+    {
+      "date": "2025-09-22",
+      "token": "DOGWIFHAT",
+      "symbol": "WIF",
+      "entryPrice": 1.87,
+      "exitPrice": 2.34,
+      "roi": 25.1,
+      "duration": "2h 54m",
+      "outcome": "profit",
+      "amount": 350
+    },
+    {
+      "date": "2025-09-21",
+      "token": "SAMO",
+      "symbol": "SAMO",
+      "entryPrice": 0.012,
+      "exitPrice": 0.0098,
+      "roi": -18.2,
+      "duration": "0h 48m",
+      "outcome": "loss",
+      "amount": 120
+    },
+    {
+      "date": "2025-09-20",
+      "token": "SLERF",
+      "symbol": "SLERF",
+      "entryPrice": 0.24,
+      "exitPrice": 0.31,
+      "roi": 29.2,
+      "duration": "3h 21m",
+      "outcome": "profit",
+      "amount": 220
+    },
+    {
+      "date": "2025-09-19",
+      "token": "BOME",
+      "symbol": "BOME",
+      "entryPrice": 0.0089,
+      "exitPrice": 0.0117,
+      "roi": 31.5,
+      "duration": "2h 36m",
+      "outcome": "profit",
+      "amount": 190
+    }
+  ]
+}
