@@ -103,7 +103,7 @@ export default function ContactSection() {
             <div className="card-gradient border border-border rounded-xl p-6">
               <h4 className="font-semibold mb-3">About Inquiries</h4>
               <p className="text-sm text-foreground/70 leading-relaxed mb-4">
-                This is a personal project showcase. I'm happy to discuss the technology, architecture, 
+                This is a personal project showcase. I&apos;m happy to discuss the technology, architecture, 
                 and AI implementation details.
               </p>
               <p className="text-sm text-foreground/70 leading-relaxed">
@@ -166,7 +166,7 @@ export default function ContactSection() {
                     onChange={handleChange}
                     required
                     className="w-full px-4 py-3 bg-background border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/50 transition-all"
-                    placeholder="What's this about?"
+                    placeholder="What&apos;s this about?"
                   />
                 </div>
 

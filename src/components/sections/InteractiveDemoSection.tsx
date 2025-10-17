@@ -31,7 +31,7 @@ export default function InteractiveDemoSection() {
     {
       command: "/portfolio",
       description: "Check current positions",
-      response: "💼 Your Portfolio\n\n📊 Overview:\n• Total Value: $2,847.50\n• Today's P&L: +$247.30 (+9.5%)\n• Open Positions: 3\n\n🔓 Active Positions:\n\n1. PEPE\n   Entry: $0.000012\n   Current: $0.000016\n   P&L: +$127.50 (+33.3%)\n   Duration: 2h 15m\n\n2. WIF\n   Entry: $1.24\n   Current: $1.45\n   P&L: +$84.20 (+16.9%)\n   Duration: 5h 42m\n\n3. BONK\n   Entry: $0.000089\n   Current: $0.000095\n   P&L: +$35.60 (+6.7%)\n   Duration: 1h 08m",
+      response: "💼 Your Portfolio\n\n📊 Overview:\n• Total Value: $2,847.50\n• Today&apos;s P&L: +$247.30 (+9.5%)\n• Open Positions: 3\n\n🔓 Active Positions:\n\n1. PEPE\n   Entry: $0.000012\n   Current: $0.000016\n   P&L: +$127.50 (+33.3%)\n   Duration: 2h 15m\n\n2. WIF\n   Entry: $1.24\n   Current: $1.45\n   P&L: +$84.20 (+16.9%)\n   Duration: 5h 42m\n\n3. BONK\n   Entry: $0.000089\n   Current: $0.000095\n   P&L: +$35.60 (+6.7%)\n   Duration: 1h 08m",
     },
     {
       command: "/analyze PEPE",
@@ -49,7 +49,7 @@ export default function InteractiveDemoSection() {
     // Welcome message
     const welcomeMsg: DemoMessage = {
       type: "bot",
-      text: `🎉 Welcome to WalletWhisperer Demo!\n\nHi there! I'm your AI trading assistant.\n\nYou can try these commands:\n• /scan - Find top wallets\n• /watchlist - View tracked traders\n• /portfolio - Check positions\n• /analyze PEPE - Analyze a token\n\nClick any command to try it!`,
+      text: `🎉 Welcome to WalletWhisperer Demo!\n\nHi there! I&apos;m your AI trading assistant.\n\nYou can try these commands:\n• /scan - Find top wallets\n• /watchlist - View tracked traders\n• /portfolio - Check positions\n• /analyze PEPE - Analyze a token\n\nClick any command to try it!`,
       timestamp: new Date().toLocaleTimeString(),
     };
     
